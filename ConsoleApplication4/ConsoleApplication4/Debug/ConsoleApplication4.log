@@ -1,0 +1,27 @@
+﻿  ConsoleApplication4.cpp
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(238): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(245): error C3861: tasknine: идентификатор не найден
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(254): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(258): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(276): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(432): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(436): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(440): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(556): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(558): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(593): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(603): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(702): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(730): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(746): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(759): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(759): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(788): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(789): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(811): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(817): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(848): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(908): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(920): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\александер\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(922): warning C4244: =: преобразование "float" в "int", возможна потеря данных
